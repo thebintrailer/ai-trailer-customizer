@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Trailer Customizer",
+  "description": "An interactive web page that allows users to select a trailer model, choose a color theme, upload a logo, and add text to generate a realistic, AI-powered preview of their personalized bin trailer.",
+  "requestFramePermissions": []
+}
